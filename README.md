@@ -29,7 +29,7 @@ https://www.kaggle.com/datasets/yamaerenay/spotify-dataset-19212020-600k-tracks/
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/spotify-recommender.git
+   git clone https://github.com/snigdhasv/spotify-playlist-recommender.git
    cd spotify-recommender
    ```
 
