@@ -18,6 +18,7 @@ This project is a Spotify Recommender System that generates song recommendations
 - Scikit-learn
 - Matplotlib
 - Scikit-image
+- streamlit
 - Jupyter Notebook (for running the notebook interactively)
 
 ## Dataset
